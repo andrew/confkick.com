@@ -12,6 +12,7 @@ body {
   background-size: cover;
   font-family: 'Helvetica Neue', sans-serif;
   color: #fff;
+  text-rendering: optimizeLegibility;
 }
 h1 {
     margin: 0 auto;
