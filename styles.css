@@ -6,10 +6,10 @@ html, body{
 }
 body {
   background: url('background.jpg') #9d470e no-repeat center center fixed; 
-  -webkit-background-size: cover;
+/*  -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
-  background-size: cover;
+  background-size: cover;*/
   font-family: 'Helvetica Neue', sans-serif;
 }
 h1 {
