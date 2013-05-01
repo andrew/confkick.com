@@ -1,10 +1,10 @@
 @import url(http://fonts.googleapis.com/css?family=Fjalla+One);
 html{
   min-height:100%;
+  background: url('background.jpg') #9d470e no-repeat center center fixed; 
 }
 body {
   margin: 0;
-  background: url('background.jpg') #9d470e no-repeat center center fixed; 
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
